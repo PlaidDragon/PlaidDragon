@@ -20,4 +20,6 @@ For example, all of my scripts focused on predictive models can be found here:
 - ⚡ Fun fact: I used to train and perform with the animals in the "Pets Ahoy!" show at Seaworld!
 - ❓ About me: "Not all who wander are lost" - The world is large and I love experiencing it! Feel free to tell me your favorite place to visit!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plaiddragon)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plaiddragon)](https://github.com/PlaidDragon/Machine-Learning)
+
+
