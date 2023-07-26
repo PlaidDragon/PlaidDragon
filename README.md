@@ -11,7 +11,7 @@ Each repository is dedicated to a specific genre for organization purposes. In e
 
 For example, all of my scripts focused on predictive models can be found here:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plaiddragon&repo=machine-learning)](https://github.com/plaiddragon/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plaiddragon&repo=machine-learning)](https://github.com/PlaidDragon/Machine-Learning)
 <br>
 <br>
 - 📫 How to reach me: See my [Linkedin Profile](www.linkedin.com/in/kristiana-reed)
@@ -20,6 +20,6 @@ For example, all of my scripts focused on predictive models can be found here:
 - ⚡ Fun fact: I used to train and perform with the animals in the "Pets Ahoy!" show at Seaworld!
 - ❓ About me: "Not all who wander are lost" - The world is large and I love experiencing it! Feel free to tell me your favorite place to visit!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plaiddragon)](https://github.com/PlaidDragon/Machine-Learning)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plaiddragon)]
 
 
