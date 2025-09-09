@@ -6,12 +6,8 @@ I am a data scientist who loves what I do; Data has never been anything but fun 
 This is my porfolio where I put my projects that I am proud of, or that I found interesting.
 I include new projects when I find interesting datasets to play around in.
 
+You can view an overview of my projects on the [Github Page](https://plaiddragon.github.io/Portfolio/) associated with my portfolio report
 
-Each repository is dedicated to a specific genre for organization purposes. In each repository you will find a readme that explains all the files that are contained within the given repository
-
-For example, all of my scripts focused on predictive models can be found here:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=plaiddragon&repo=machine-learning)](https://github.com/PlaidDragon/Machine-Learning)
 <br>
 <br>
 - 📫 How to reach me: See my [Linkedin Profile](www.linkedin.com/in/kristiana-reed)
